@@ -74,11 +74,10 @@
 
 /*
 * 箭头函数
-* () => console.log('Hello')
-* function a(){
-  console.log('hello')
-   }
-   a()
+* x => x * x
+* function (x) {
+    return x * x;
+}
 *
 * */
 //  普通函数中的this:
